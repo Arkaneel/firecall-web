@@ -18,8 +18,10 @@ A Google Meet Clone Made With React And Firebase WebRTC
 
 To run this project,make sure NodeJs is Installed Then Follow The Steps..
 
+* First Edit src/server/firebase.js and add Your Config
 
-Locate The Directory...
+
+* Locate The Directory...
 ```bash
   cd <directory>
 ```
