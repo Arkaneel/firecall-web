@@ -1,5 +1,5 @@
 
-# Google ~ Meet ~ Clone
+# FireCall
 
 A Google Meet Clone Made With React And Firebase WebRTC
 
