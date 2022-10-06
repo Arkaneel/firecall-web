@@ -1,8 +1,8 @@
 import firebase from "firebase";
 
 var firebaseConfig = {
-  apiKey: "AIzaSyBcQfYs1Szj1XZNesa8YttOB_Clg-Qq6vU",
-  databaseURL:"https://web-rtc-js-default-rtdb.firebaseio.com"
+  apiKey: "AIzaSyAEirUxW9XifKOZ__gsbHDuWcxj-FSK-YM",
+  databaseURL:"https://firecall-2a2f0-default-rtdb.asia-southeast1.firebasedatabase.app"
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
