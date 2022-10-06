@@ -20,7 +20,7 @@
   ],
   "start_url": "/",
   "orientation": "any",
-  "display": "standalone",
+  "display": "minimal-ui",
   "theme_color": "#000000",
   "background_color": "#ffffff"
 }
