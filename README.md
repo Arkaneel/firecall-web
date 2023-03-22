@@ -7,7 +7,7 @@ A Google Meet Clone Made With React And Firebase WebRTC
 ## Lisences
 
 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+[![MIT License](https://img.shields.io/github/license/Arkaneel/Google-Meet-Clone?style=social)]
 * This Is An Open Source Project.
 * Editing and Making Changes To The Project is Permissible.
 
