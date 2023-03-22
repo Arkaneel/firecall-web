@@ -1,8 +1,7 @@
 
 # FireCall
 
-A Google Meet Clone Made With React And Firebase WebRTC
-
+A video calling platform built entirely using Firebase DB , React JS , webRTC and P2P.
 
 ## Lisences
 
